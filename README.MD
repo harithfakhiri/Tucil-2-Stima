@@ -6,7 +6,7 @@ Program ini dibuat untuk memenuhi Tugas Kecil 2 IF2211 Strategi Algoritma Semest
 
 ## How To
 > Python harus sudah ter-install pada device pengguna program untuk dapat menjalankan program.
-> Pengguna dapat menjalankan program dengan membuka terminal pada directory src, kemudian memasukkan input berupa nama file yang berisi persoalan Penyusunan Rencana Kuliah beserta format file nya, contoh 'test1.txt'.
+> Pengguna dapat menjalankan program dengan membuka terminal pada directory src, lalu menjalankan program main. kemudian memasukkan input berupa nama file yang berisi persoalan Penyusunan Rencana Kuliah beserta format file nya, contoh 'test1.txt'.
 > Program akan mencari solusi dari penyusunan rencana kuliah menggunakan Topological Sort, kemudian menampilkan Outputnya pada layar.
 
 ## Pembuat Program
