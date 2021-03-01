@@ -1,0 +1,8 @@
+Fisika_IA.
+Kalkulus_IA.
+Fisika_IIA, Fisika_IA.
+Kalkulus_IIA, Kalkulus_IA.
+PAR, Kalkulus_IIA, Fisika_IIA.
+Kimia_IIA, PAR, DASPRO.
+PRD, Kalkulus_IIA.
+DASPRO, PRD.

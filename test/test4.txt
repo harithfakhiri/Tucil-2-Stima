@@ -1,0 +1,8 @@
+Kalkulus_IA.
+Pengenalan_Komputasi.
+Kalkulus_IIA,Kalkulus_IA.
+Dasar_Pemrograman,Pengenalan_Komputasi.
+Algoritma_Struktur_Data, Dasar_Pemrograman.
+Pemrograman_Berbasis_Objek, Algoritma_Struktur_Data.
+Basis_Data, Logika_Komputasional, Dasar_Pemrograman.
+Logika_Komputasional,Kalkulus_IIA,Pengenalan_Komputasi.
